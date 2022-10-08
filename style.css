@@ -483,7 +483,8 @@ body{
 
     .navbar .menu-items{
         padding-top: 100px;
-        background: #fff;
+        background:gray;
+        
         height: 100vh;
         max-width: 300px;
         transform: translateX(-150%);
@@ -493,6 +494,7 @@ body{
         padding-left: 50px;
         transition: transform 0.5s ease-in-out;
         box-shadow: 5px 0px 10px 0px #aaa;
+        
     }
     .navbar .menu-items li{
         margin-bottom: 3rem;
